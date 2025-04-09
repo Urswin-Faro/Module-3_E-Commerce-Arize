@@ -1,7 +1,6 @@
 # ARIZE E-Commerce Website
 
-[![Screenshot of Homepage](path/to/homepage_screenshot.png)](link/to/live_demo)
-[![Animated GIF of Adding to Cart](path/to/add_to_cart_animation.gif)](link/to/live_demo) 
+https://private-user-images.githubusercontent.com/185498304/420318210-82e8c504-c76b-4d5f-9aa7-b1342f91b918.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDQxOTMwMzcsIm5iZiI6MTc0NDE5MjczNywicGF0aCI6Ii8xODU0OTgzMDQvNDIwMzE4MjEwLTgyZThjNTA0LWM3NmItNGQ1Zi05YWE3LWIxMzQyZjkxYjkxOC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNDA5JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDQwOVQwOTU4NTdaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1jZTI5MWM4ZmE3ODI2MzQ5ZDA1YWNlZmRjZmY0MGVjNDlkYmE0MmYxNTQ2Mzg5ZThkNDY4YWFiNzA5ZGIxNmYwJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.6ePQ-XkTsuyLuUm6GHypSBq68n3zlF-HU1sTaSsIbPM
 
 ARIZE is a full-featured e-commerce platform for tech products, providing a seamless shopping experience. Built for the Life Choices assignment by Urswin Faro, Nashra Hendricks, Jemaile Mohamed and Avela Romeo, the project supports product listings, user authentication, and an intuitive checkout flow.
 
