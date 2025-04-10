@@ -126,7 +126,7 @@ Password: securepass123
 
 ## Authors
 - Urswin Faro
-- Nashra Hendricks
+- Nasra Hendricks
 - Jemaile Mohamed
 - Avela Romeo
 
