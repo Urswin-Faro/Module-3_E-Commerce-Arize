@@ -2,7 +2,7 @@
 
 ![Home Page](https://github.com/Urswin-Faro/Module-3_E-Commerce-Arize/blob/6ad1e7e4fda917a7af5aac7c1948c4781b14d742/Screenshot%202025-04-09%20120502.png)
 
-ARIZE is a full-featured e-commerce platform for tech products, providing a seamless shopping experience. Built for the Life Choices assignment by Urswin Faro, Nashra Hendricks, Jemaile Mohamed and Avela Romeo, the project supports product listings, user authentication, and an intuitive checkout flow.
+ARIZE is a full-featured e-commerce platform for tech products, providing a seamless shopping experience. Built for the Life Choices assignment by Urswin Faro, Nasra Hendricks, Jemaile Mohamed and Avela Romeo, the project supports product listings, user authentication, and an intuitive checkout flow.
 
 ## Table of Contents
 - [Live Demo](#live-demo)
